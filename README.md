@@ -1,2 +1,1 @@
-# MANO-GPU
-mano的pytorch gpu 版本
+# pytorch  PERFORMANCE_CPU_VS_GPU
